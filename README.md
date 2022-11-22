@@ -1,18 +1,4 @@
-## Getting Started
+<h1>Para CEEP Theodoro de Bona</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Essa aula foi preparada com intuíto de mostrar arquivos HTML| CSS | Java Script. Dentro de um projeto Java. Também na pasta controller há um arquivo que cria um arquivo extensão .txt que recebe conteúdo de um site específico que foi escolhido aleatóriamente.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
